@@ -1,5 +1,5 @@
 import math
-
+    
 def compute(target_global, heading_global, b_target_local):
 
     def global_to_local(angle):
